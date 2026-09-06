@@ -9,6 +9,10 @@ print(False) #boolean
 bucket = 'water' #stirng
 cup = "coffee" #string
 age = 18 #integer
-isNepali = True #boolean
+is_nepali = True #boolean
 
 magic-bucket = ["water", "coffee", "icecream"] #lists
+
+fullName="Neera" #js
+full_name= "Neera" #python -> snake case
+full-Name ="Neera"
