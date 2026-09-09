@@ -20,14 +20,14 @@ countries=["Japan", "USA", "China"] #list
 # print(len(countries))
 # print(countries)
 
-countries=("Japan", "USA", "China") #tuples 
-print(countries[0])
-# countries[1] ="HOngKong"
-print(countries.count('China'))
-print(countries.index('USA'))
+# countries1=("Japan", "USA", "China") #tuples 
+# print(countries1[0])
+# # countries1[1] ="HOngKong"
+# print(countries1.count('China'))
+# print(countries1.index('USA'))
 
 
-countries={"japan", "USA", "China"} #sets
-# print(countries[1])
+countries_sets={"japan", "USA", "China"} #sets
+print(countries_sets)
 
 
