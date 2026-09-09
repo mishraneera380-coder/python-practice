@@ -39,4 +39,8 @@ personal_information ={
     "isnepali" : True  
 }
 
+# print(personal_information["full_name"])
+personal_information["color"] ="blue"
+personal_information["age"] =25
+personal_information.pop("college")
 print(personal_information)
