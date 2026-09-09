@@ -10,5 +10,8 @@ country1="USA"
 country2="China"
 
 countries=["Japan", "USA", "China"] #list
+print(countries[0])
 countries={"japan", "USA", "China"} #sets
+
 countries=("Japan", "USA", "China") #tuples 
+
