@@ -27,7 +27,16 @@ countries=["Japan", "USA", "China"] #list
 # print(countries1.index('USA'))
 
 
-countries_sets={"japan", "USA", "China"} #sets
-print(countries_sets)
+# countries_sets={"japan", "USA", "China"} #sets
+# print(countries_sets)
 
+# Dictionary
+personal_information ={
+    "full_name" :" Samikshya Mishra",
+    "Address" :" Laxmipur, Jhapa",
+    "Age" :"18",
+    "college": "Mechi Multiple Campus",
+    "isnepali" : True  
+}
 
+print(personal_information)
