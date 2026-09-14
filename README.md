@@ -1,2 +1,3 @@
-# python-practice
-My Python practice projects
+## Python
+  A beginner‑friendly language for web, AI, and data science.
+  ---
