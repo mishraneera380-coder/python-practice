@@ -67,7 +67,7 @@ password = 'susu14'
 
 # for score in prediction_scores: 
 #    if score > 80:
-#       print(score, "Good Score")
+#       print(score, "Good Score") 
 #     else:
 #       print(Score, "Bad Score") 
  
