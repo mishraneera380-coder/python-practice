@@ -73,7 +73,7 @@ password = 'susu14'
 
 emails_lists =[
    "Discount in Bhatbhateni",
-   "Free tickets in Yeti Airlines",
+   "Free tickets in Yeti Airlines",   
    "What is the project update??",
    "congrulations, you got you offer letter from Microsoft"
 
