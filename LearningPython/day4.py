@@ -70,7 +70,7 @@ password = 'susu14'
 #       print(score, "Good Score")
 #     else:
 #       print(Score, "Bad Score")
-
+ 
 emails_lists =[
    "Discount in Bhatbhateni",
    "Free tickets in Yeti Airlines",   
