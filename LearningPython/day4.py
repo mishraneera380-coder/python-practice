@@ -65,7 +65,7 @@ password = 'susu14'
 # for country in countries:
 #    print(country)
 
-# for score in prediction_scores:
+# for score in prediction_scores: 
 #    if score > 80:
 #       print(score, "Good Score")
 #     else:
