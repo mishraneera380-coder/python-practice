@@ -69,7 +69,7 @@ password = 'susu14'
 #    if score > 80:
 #       print(score, "Good Score")
 #     else:
-#       print(Score, "Bad Score")
+#       print(Score, "Bad Score") 
  
 emails_lists =[
    "Discount in Bhatbhateni",
