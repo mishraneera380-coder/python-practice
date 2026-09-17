@@ -24,13 +24,23 @@
 
 # 4. Ask the user to enter Student Name, Email, Age, and Selected Course.
 
-Student_Name = input("Enter your name:")
-Email = input("Enter your email:")
-Age  = input("Enter your age:")
-Selected_Course = input("Enter your course:")
+# Student_Name = input("Enter your name:")
+# Email = input("Enter your email:")
+# Age  = input("Enter your age:")
+# Selected_Course = input("Enter your course:")
 
-print("\n------------------ Student Details----------- ")
-print("Name:", Student_Name)
-print("Email:", Email)
-print("Age:", Age)
-print("Course:", Selected_Course)
+# print("\n------------------ Student Details----------- ")
+# print("Name:", Student_Name)
+# print("Email:", Email)
+# print("Age:", Age)
+# print("Course:", Selected_Course)
+
+# 5. Store the entered information inside a Python dictionary.
+Student_Details = {
+  "Student_Name":"Samikshya Mishra",
+  "Email":"samikshya812@gmail.com",
+  "Age":"18",
+  "Course":"B.Sc.CSIT"
+ }
+
+print(Student_Details)
