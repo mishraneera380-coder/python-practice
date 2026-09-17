@@ -36,11 +36,22 @@
 # print("Course:", Selected_Course)
 
 # 5. Store the entered information inside a Python dictionary.
-Student_Details = {
-  "Student_Name":"Samikshya Mishra",
-  "Email":"samikshya812@gmail.com",
-  "Age":"18",
-  "Course":"B.Sc.CSIT"
- }
+# Student_Details = {
+#   "Student_Name":"Samikshya Mishra",
+#   "Email":"samikshya812@gmail.com",
+#   "Age":"18",
+#   "Course":"B.Sc.CSIT"
+#  }
 
-print(Student_Details)
+# print(Student_Details)
+
+# 6. Use an if...else statement to check whether the selected course exists in the course list.
+
+Selected_Course =" B.Sc.CSIT "
+if Selected_Course == " B.Sc.CSIT ":
+    print("Course Exist", Selected_Course)
+else:
+    print("Doesn't exist")
+
+# 7.If the course exists, display 'Registration Successful!'; otherwise display 'Course Not Available.'
+
