@@ -10,15 +10,15 @@ country1="USA"
 country2="China"
 
 countries=["Japan", "USA", "China"] #list
-# print(countries[-1])
-# countries.append("Nepal") #adds to last of list
-# countries.pop()  #removes last item of list
-# countries.insert(0, "Switzerland")  #adds to 0 index(first)
-# countries.remove("Japan")  #removes
-# countries[1] = 'London'
+print(countries[-1])
+countries.append("Nepal") #adds to last of list
+countries.pop()  #removes last item of list
+countries.insert(0, "Switzerland")  #adds to 0 index(first)
+countries.remove("Japan")  #removes
+countries[1] = 'London'
 
-# print(len(countries))
-# print(countries)
+print(len(countries))
+print(countries)
 
 # countries1=("Japan", "USA", "China") #tuples 
 # print(countries1[0])
