@@ -55,3 +55,4 @@ else:
 
 # 7.If the course exists, display 'Registration Successful!'; otherwise display 'Course Not Available.'
 
+   
