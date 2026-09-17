@@ -11,7 +11,7 @@ print(courses)
 # 3. Use a for loop to display all available courses.
 
 for course in courses:
-    if "Python with AI/ML" in course and "JavaScript" in course and  "Flutter" in course and  "MERN Stack" in course :
+    if "Python with AI/ML" in course and "JavaScript" in course and  "Flutter" in course and  "MERN Stack" in course:
         print("All available courses", course)
 else:
     print("Not all courses", course)
