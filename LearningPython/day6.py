@@ -12,12 +12,13 @@ print("Hello isha")
 #      print("name")
 
 
-def greet():
-    print("Hello")
+def greet(name):
+    print(name)
+    print("Hello" + name)
 
-greet()
-greet()
-greet()
+greet("manisha")
+greet("anisha")
+greet("nisha")
 
 # Parameter & Arguments in function -> to get different output in different scenario to be executed
 # Arguments - user given data/value --> input injection
