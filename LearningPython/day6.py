@@ -19,5 +19,12 @@ greet()
 greet()
 greet()
 
-# Parameter & Arguments in function
-# Parameter - 
+# Parameter & Arguments in function -> to get different output in different scenario to be executed
+# Arguments - user given data/value --> input injection
+# Parameter - receive placeholder, things which should be taken from the receiver side
+
+countries = ["japan", "USA", "Nepal"]
+len(countries)
+print("hello world")
+print(123)
+print(True)
