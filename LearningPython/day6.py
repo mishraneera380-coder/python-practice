@@ -1,7 +1,7 @@
-print("Hello manisha")
-print("Hello anisha")
-print("Hello nisha")
-print("Hello isha")
+# print("Hello manisha")
+# print("Hello anisha")
+# print("Hello nisha")
+# print("Hello isha")
 
 # repetition /duplication of code//unmanageable
 
@@ -12,20 +12,21 @@ print("Hello isha")
 #      print("name")
 
 
-def greet(name):
-    print(name)
-    print("Hello" + name)
+def greet(name, age):
+    print("hello" + name)
+    # print(name)
+    # print("Hello" + name)
 
-greet("manisha")
-greet("anisha")
-greet("nisha")
+greet("manisha",18)
+greet("anisha",10)
+greet("nisha",20)
 
 # Parameter & Arguments in function -> to get different output in different scenario to be executed
 # Arguments - user given data/value --> input injection
 # Parameter - receive placeholder, things which should be taken from the receiver side
 
-countries = ["japan", "USA", "Nepal"]
-len(countries)
-print("hello world")
-print(123)
-print(True)
+# countries = ["japan", "USA", "Nepal"]
+# len(countries)
+# print("hello world")
+# print(123)
+# print(True)
