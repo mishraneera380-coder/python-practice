@@ -45,14 +45,25 @@
 # print(name)
 # print(location)
 
-def say_hello(name = "Samikshya"):
-    print("hello " + name)
+# def say_hello(name = "Samikshya"):
+#     print("hello " + name)
 
-say_hello()
+# say_hello()
 
-def multiple(num1, num2):
-    print(num1,num2)
-    print(num1*num2)
+# def multiple(num1, num2):
+#     print(num1,num2)
+#     print(num1*num2)
 
-multiple(1,(9))
-   
+# multiple(1,(9))
+
+# lambda function
+
+def square_num(num):
+    return num*num
+
+result = square_num(3)
+
+result1 = lambda num:num*num
+result1(2)
+
+print(result)
