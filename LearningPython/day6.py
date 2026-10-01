@@ -59,7 +59,7 @@ multiple(1,(9))
 lambda function
 
 def square_num(num):
-    return num*num
+    return num*num 
 
 result = square_num(3)
 
