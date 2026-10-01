@@ -32,8 +32,21 @@
 # print(True)
 
 # return
-def add(num1, num2):
-    return num1+num2
-sum = add(1,4)
-print(sum)
+# def add(num1, num2):
+#     return num1+num2
+# sum = add(1,4)
+# print(sum)
+
+# def student():
+#     return "Samikshya", 18, "Bhadrapur"
+
+# name, age, location = student()
+# print(age)
+# print(name)
+# print(location)
+
+def say_hello(name = "Samikshya"):
+    print("hello " + name)
+
+say_hello()
    
