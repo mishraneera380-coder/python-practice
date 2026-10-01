@@ -33,7 +33,7 @@
 
 # return
 def add(num1, num2):
-    print(num1+num2)
-    
-add(1,4)
+    return num1+num2
+sum = add(1,4)
+print(sum)
    
