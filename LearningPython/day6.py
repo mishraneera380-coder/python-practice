@@ -58,12 +58,20 @@
 
 # lambda function
 
-def square_num(num):
-    return num*num
+# def square_num(num):
+#     return num*num
 
-result = square_num(3)
+# result = square_num(3)
 
-result1 = lambda num:num*num
-result1(2)
+# result1 = lambda num:num*num
+# result1(2)
 
-print(result)
+# print(result)
+
+# nested function
+
+def outside_function():
+    def inside_function();
+        print("Function print inside the inside_function")
+    inside_function()
+outside_function()
