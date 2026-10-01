@@ -12,14 +12,14 @@
 #      print("name")
 
 
-def greet(name, age):
-    print("hello" + name)
-    # print(name)
-    # print("Hello" + name)
+# def greet(name, age):
+#     print("hello" + name)
+#     # print(name)
+#     # print("Hello" + name)
 
-greet("manisha",18)
-greet("anisha",10)
-greet("nisha",20)
+# greet("manisha",18)
+# greet("anisha",10)
+# greet("nisha",20)
 
 # Parameter & Arguments in function -> to get different output in different scenario to be executed
 # Arguments - user given data/value --> input injection
@@ -30,4 +30,10 @@ greet("nisha",20)
 # print("hello world")
 # print(123)
 # print(True)
+
+# return
+def add(num1, num2):
+    print(num1+num2)
+    
+add(1,4)
    
