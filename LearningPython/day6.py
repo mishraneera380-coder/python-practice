@@ -52,7 +52,7 @@ say_hello()
 
 def multiple(num1, num2):
     print(num1,num2)
-    print(num1*num2)  
+    print(num1*num2)   
 
 multiple(1,(9))  
 
