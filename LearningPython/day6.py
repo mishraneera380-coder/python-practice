@@ -46,7 +46,7 @@ print(name)
 print(location)
 
 def say_hello(name = "Samikshya"): 
-    print("hello " + name)
+    print("hello " +  name)
 
 say_hello()
 
