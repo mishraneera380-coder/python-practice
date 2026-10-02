@@ -42,7 +42,7 @@ def student():
 
 name, age, location = student()
 print(age)
-print(name)
+print(name) 
 print(location)
 
 def say_hello(name = "Samikshya"): 
