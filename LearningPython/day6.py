@@ -45,7 +45,7 @@ print(age)
 print(name)
 print(location)
 
-def say_hello(name = "Samikshya"):
+def say_hello(name =  "Samikshya"):
     print("hello " + name)
 
 say_hello()
