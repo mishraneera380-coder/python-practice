@@ -22,7 +22,7 @@ import numpy as sam
 
 name = sam.array(["samikshya", "Muna", "Shraddha"])
 
-print(name)
+print(name) 
 
 # pandas --> abt data,read, analyze, organize, manipulate
 
