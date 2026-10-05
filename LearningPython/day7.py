@@ -22,8 +22,8 @@ import numpy as sam
 
 name = sam.array(["samikshya", "Muna", "Shraddha"])
 
-print(name) 
+print(name)   
 
-# pandas --> abt data,read, analyze, organize, manipulate
+# pandas --> about data,read, analyze, organize, manipulate
 
 # not vs but juypter notebook or jupyter lab
