@@ -28,10 +28,7 @@ print(name)
     
 # not vs but juypter notebook or jupyter lab
 
-
-name = sam.array(["samikshya",  "Muna", "Shraddha"])
-
-print(name)      
+)      
 
 import numpy as np
 
