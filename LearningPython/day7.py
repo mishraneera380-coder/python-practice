@@ -20,7 +20,7 @@ print(number + 2)
 
 import numpy as sam
 
-name = sam.array(["samikshya", "Muna", "Shraddha"])
+name = sam.array(["samikshya",  "Muna", "Shraddha"])
 
 print(name)      
 
