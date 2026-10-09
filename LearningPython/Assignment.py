@@ -40,7 +40,7 @@
 #   "Student_Name":"Samikshya Mishra",
 #   "Email":"samikshya812@gmail.com",
 #   "Age":"18",
-#   "Course":"B.Sc.CSIT"
+#   "Course":"B.Sc.CSIT"   
 #  }
 
 # print(Student_Details)   
