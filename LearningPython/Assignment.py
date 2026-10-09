@@ -48,7 +48,7 @@
 # 6. Use an if...else statement to check whether the selected course exists in the course list.
 
 Selected_Course =" B.Sc.CSIT "
-if Selected_Course == " B.Sc.CSIT ":    
+if Selected_Course == " B.Sc.CSIT ":       
     print("Course Exist", Selected_Course)     
 else:
     print("Doesn't exist")
