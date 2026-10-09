@@ -36,7 +36,7 @@
 # print("Course:", Selected_Course)
 
 # 5. Store the entered information inside a Python dictionary.
-# Student_Details = {
+# Student_Details = {   
 #   "Student_Name":"Samikshya Mishra",
 #   "Email":"samikshya812@gmail.com",
 #   "Age":"18",
