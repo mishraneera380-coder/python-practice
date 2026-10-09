@@ -49,7 +49,7 @@
 
 Selected_Course =" B.Sc.CSIT "
 if Selected_Course == " B.Sc.CSIT ": 
-    print("Course Exist", Selected_Course)
+    print("Course Exist", Selected_Course)     
 else:
     print("Doesn't exist")
 
