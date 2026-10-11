@@ -50,8 +50,8 @@
 Selected_Course =" B.Sc.CSIT "
 if Selected_Course == " B.Sc.CSIT ":       
     print("Course Exist", Selected_Course)     
-else:
+else:  
     print("Doesn't exist")
-
+   
 # 7.If the course exists, display 'Registration Successful!'; otherwise display 'Course Not Available.'
   
