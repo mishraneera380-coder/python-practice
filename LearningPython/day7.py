@@ -20,12 +20,12 @@ print(number + 2)
 
 import numpy as sam
 
-name = sam.array(["samikshya",  "Muna", "Shraddha"])
+name = sam.array(["samikshya",   "Muna", "Shraddha"])
 
 print(name)      
 
 # pandas --> about data,read, analyze, organize, manipulate
     
-# not vs but juypter notebook or jupyter lab
+# not vs but juypter notebook or jupyter lab   
 
      
