@@ -14,7 +14,7 @@ numbers = np.array([  10,  20,30,  40.50])
 print(numbers + 5)   
 
 import pandas as ap
-number = ap.array([1,2,3,4,5])
+number = ap.array([1,2,3,4,5])   
 print(number + 2)
 
 
