@@ -9,9 +9,9 @@ def divide(a,b):
     return a / b
 print("Simple Calculator")
 print("1. Add")
-print("2. Subtract")
+print("2. Subtract")  
 print("3. Multiply")
-print("4. Divide")
+print("4. Divide")  
 
 choice=input("Choose an option (1 - 4):")
 num1 = float(input("Enter first number:"))
